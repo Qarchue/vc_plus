@@ -1,0 +1,8 @@
+安裝
+alembic -c database/alembic/alembic.ini revision -m "名稱"
+
+更新
+alembic -c database/alembic/alembic.ini upgrade head
+
+自動生成
+alembic -c database/alembic/alembic.ini revision --autogenerate -m "名稱"
