@@ -1,7 +1,6 @@
-# [vc_plus]([https://www.github.com/Qarchue/vc_plus](https://github.com/Qarchue/vc_plus))
+# [vc+]([https://www.github.com/Qarchue/vc_plus](https://github.com/Qarchue/vc_plus))
 
 <p align="center">
-    <a href="https://github.com/Qarchue/vc_plus/blob/master/LICENSE"><img src="https://img.shields.io/github/license/qarchue/vc_plus"></a>
     <a href="https://github.com/Qarchue/vc_plus"><img src="https://img.shields.io/github/repo-size/Qarchue/vc_plus"></a>
     <a href="https://github.com/Qarchue/vc_plus"><img src="https://img.shields.io/github/languages/top/Qarchue/vc_plus"></a>
     <a href="https://github.com/Qarchue/vc_plus/stargazers"><img src="https://img.shields.io/github/stars/Qarchue/vc_plus?style=socia"></a>
