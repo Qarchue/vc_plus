@@ -1,10 +1,10 @@
-# [vcplus]([https://www.github.com/Qarchue/vcplus](https://github.com/Qarchue/vcplus))
+# [vc_plus]([https://www.github.com/Qarchue/vc_plus](https://github.com/Qarchue/vc_plus))
 
 <p align="center">
-    <a href="https://github.com/Qarchue/vcplus/blob/master/LICENSE"><img src="https://img.shields.io/github/license/qarchue/vcplus"></a>
-    <a href="https://github.com/Qarchue/vcplus"><img src="https://img.shields.io/github/repo-size/Qarchue/vcplus"></a>
-    <a href="https://github.com/Qarchue/vcplus"><img src="https://img.shields.io/github/languages/top/Qarchue/vcplus"></a>
-    <a href="https://github.com/Qarchue/vcplus/stargazers"><img src="https://img.shields.io/github/stars/Qarchue/vcplus?style=socia"></a>
+    <a href="https://github.com/Qarchue/vc_plus/blob/master/LICENSE"><img src="https://img.shields.io/github/license/qarchue/vc_plus"></a>
+    <a href="https://github.com/Qarchue/vc_plus"><img src="https://img.shields.io/github/repo-size/Qarchue/vc_plus"></a>
+    <a href="https://github.com/Qarchue/vc_plus"><img src="https://img.shields.io/github/languages/top/Qarchue/vc_plus"></a>
+    <a href="https://github.com/Qarchue/vc_plus/stargazers"><img src="https://img.shields.io/github/stars/Qarchue/vc_plus?style=socia"></a>
     <a href="https://discord.gg/w5CeZh3rNu"><img src="https://img.shields.io/discord/905865794683015208?style=flat-square&logo=Discord&logoColor=white&label=support&color=5865F2"></a>
 </p>
 
@@ -137,11 +137,11 @@ class Config(BaseSettings):
 ## 專案資料夾結構
 
 ```
-vcplus/
+vc_plus/
     ├── cogs/
     │   ├── admin/            = 管理員命令
     │   ├── events_manage/        = discord 事件管理
-    │   └── voice_creator/    = vcplus 主要功能
+    │   └── voice_creator/    = vc_plus 主要功能
     ├── data/             = 資料庫檔案    
     ├── database/         = SQLAlchemy ORM、資料庫操作相關的程式碼
     ├── utility/          = 一些本專案用到的設定、公用函式、Log、檔案操作...等程式碼
