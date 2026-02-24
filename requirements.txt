@@ -1,0 +1,1 @@
+pip install discord enkanetwork.py SQLAlchemy alembic prometheus-client sentry-sdk pydantic-settings aiosqlite jishaku
